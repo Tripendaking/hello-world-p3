@@ -1,6 +1,6 @@
 println("Hello World");
 String firstSentence = "You said Hello!";
-String secondSentence = "Mr. Mercer counts to 10, by 1.";
+String secondSentence = "tripen bannister counts to 10, by 1.";
 //println(firstSentence);
 //println(secondSentence);
 //
