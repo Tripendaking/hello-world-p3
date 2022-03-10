@@ -6,7 +6,7 @@ float thirty; //bigger FLOAT is called DOUBLE
 //
 void setup()
 {
-  String secondSentence = "Mr. Mercer counts to 10, by 1."; //Local Variable
+  String secondSentence = "tripen bannister counts to 10, by 1."; //Local Variable
   //println(secondSentence);
   //Population, Declaring, Valuing
   y = ',';
