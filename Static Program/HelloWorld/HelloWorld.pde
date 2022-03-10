@@ -16,8 +16,8 @@ char space = ' '; //"System Resources", use "char", choose your variables wisely
 //Concatenate the Second Sentence
 char y = ',';
 char z = '.';
-String d = "Mr";
-String e = "Mercer";
+String d = "tripen";
+String e = "bannister";
 String f = "counts";
 String g = "to";
 String ten = "10";
